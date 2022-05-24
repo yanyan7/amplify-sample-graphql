@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "csfindermockgraphql",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/igpi-2000060/csfindermock-graphql/amplify/backend/api/csfindermockgraphql/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

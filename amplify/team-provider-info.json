@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-csfindermockgraphql-dev-115208-authRole",
+      "UnauthRoleArn": "arn:aws:iam::859080433733:role/amplify-csfindermockgraphql-dev-115208-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::859080433733:role/amplify-csfindermockgraphql-dev-115208-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-csfindermockgraphql-dev-115208-deployment",
+      "UnauthRoleName": "amplify-csfindermockgraphql-dev-115208-unauthRole",
+      "StackName": "amplify-csfindermockgraphql-dev-115208",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:859080433733:stack/amplify-csfindermockgraphql-dev-115208/810c4c00-db0c-11ec-aa26-0ed508706001",
+      "AmplifyAppId": "dkeghwdhmng2l"
+    }
+  }
+}
